@@ -1,0 +1,13 @@
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csprojAssemblyReference.cache
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfoInputs.cache
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.AssemblyInfo.cs
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.csproj.CoreCompileInputs.cache
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.deps.json
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.json
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.runtimeconfig.dev.json
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.dll
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/bin/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
+/home/automacao/Documentos/Dev/dio-series/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
